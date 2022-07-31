@@ -1,6 +1,9 @@
 # ClusterAvg
 Path of Exile tool which price checks cluster jewels with specific mod combinations
 
+## Requirements
+- Python 3.8+
+
 ## Usage
 - Run `python generate_cluster_mods.py` to dump all cluster mod names and their respective trade API stat keys
 - Create desired configs under `/configs` using mod names from `mod_dump.json`
